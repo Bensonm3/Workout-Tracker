@@ -19,7 +19,7 @@ Routes:
 /all - displays all workouts stored in the app
 
 
-![Deployed Pic](./Workout_tracker.jpeg)
+![Deployed Pic](/Workout_tracker.jpeg)
 
 
 Deployed Links:
